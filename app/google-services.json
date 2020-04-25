@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245944004962",
+    "firebase_url": "https://ontask-67242.firebaseio.com",
+    "project_id": "ontask-67242",
+    "storage_bucket": "ontask-67242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245944004962:android:6e5f4373590a365d81fc3b",
+        "android_client_info": {
+          "package_name": "com.mauriciomolina.ontaskfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245944004962-2khuca12l1umtfjf61a3tqq6kvn4us0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mauriciomolina.ontaskfirebase",
+            "certificate_hash": "0b4ae4772d7d731eab72006c718f75444b213830"
+          }
+        },
+        {
+          "client_id": "245944004962-i00bhmfp9o0e1h5upp10inunac2gfs6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb29XwZzSnJL2LuwGY2qC6m4p9IWwaPds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245944004962-i00bhmfp9o0e1h5upp10inunac2gfs6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
